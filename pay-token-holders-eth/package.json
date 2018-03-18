@@ -1,7 +1,7 @@
 {
   "name": "tokenpayer",
   "version": "1.0.0",
-  "description": "Pay everyone who holds your token a percentage of ether !",
+  "description": "Pay everyone who holds our token a percentage of ether !",
   "main": "App.js",
   "scripts": {
     "test": "mocha test.js"
