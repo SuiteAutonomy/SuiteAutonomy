@@ -1,0 +1,23 @@
+{
+  "name": "tokenpayer",
+  "version": "1.0.0",
+  "description": "Pay everyone who holds your token a percentage of ether !",
+  "main": "App.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "eth",
+    "token",
+    "etherium"
+  ],
+  "author": "Scott Lindh <scottlindh@gmail.com> (http://onzcoin.com)",
+  "license": "ISC",
+  "dependencies": {
+    "eth-price": "^0.1.5",
+    "ethereumjs-units": "^0.2.0",
+    "ethers": "^3.0.7",
+    "jssoup": "0.0.6",
+    "request": "^2.85.0"
+  }
+}
