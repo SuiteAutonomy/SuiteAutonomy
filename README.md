@@ -11,12 +11,20 @@ The belief is real that ethereum's platform has the potential to host autonomous
 Begining with Etherdelta a well known Decentralized Exchange (DEX) for erc20 tokens. We are enabling the proceedings from fees collected by etherdelta to be shared amongst the RICO token holders. We also adjusted the fee of the sourcecode to 0.05%.
 
 P.s I am a user of the etherdelta platform and I really like it alot. It's only natural to try to improve on thier success.
- ---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
  
 # Who we are: 
 
-We are a group of individuals working on this project. Like satoshi I Autonomous can speak for our team when I say that we are not interested in being penalized for any software we help to bring to fruition. Some of our team incluing myself wish to stay humbled and anonymous throughout our endevours. 
- ---------------------------------------------------------------------------
+We are a group of individuals working on this project. 
+
+Like satoshi I Autonomous can speak for our team when I say that we are not interested in being penalized for any software we help to bring to fruition. 
+
+Some of our team members incluing myself wish to stay humbled and anonymous throughout our endevours.
+
+If you wish to judge. Please judge our actions and read the code.
+
+---------------------------------------------------------------------------
 
 Website: https://suiteautonomy.com
 Twitter: https://twitter.com/SuiteAutonomy
