@@ -18,11 +18,12 @@ P.s I am a user of the etherdelta platform and I really like it alot. It's only 
 
 We are a group of individuals working on this project. 
 
-Like satoshi I Autonomous can speak for our team when I say that we are not interested in being penalized for any software we help to bring to fruition. 
+Like Satoshi, I Autonomous can speak for our team when I say that we are not interested in being penalized for any software we help to bring to fruition. 
 
-Some of our team members incluing myself wish to stay humbled and anonymous throughout our endevours.
+Some of our team members including myself wish to stay humbled and anonymous throughout our endevours.
 
-If you wish to judge. Please judge our actions and read the code.
+If you wish to judge. Please judge. 
+Monitor our actions and monitor our sourcecodes.
 
 ---------------------------------------------------------------------------
 
