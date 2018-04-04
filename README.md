@@ -18,7 +18,7 @@ P.s I am a user of the etherdelta platform and I really like it alot. It's only 
 
 We are a group of individuals working on this project. 
 
-Like Satoshi, I Autonomous speak for all when I say that the code is all that matter. 
+The code is all that matter. 
 
 Some of our team members including myself wish to stay humbled and anonymous.
 
