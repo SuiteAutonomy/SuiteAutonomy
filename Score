@@ -1,5 +1,9 @@
 //-----------------------------------------------
-Autonomous: 2,000,000 + 10% (Unclaimed)
+Autonomous: +10% (Unclaimed)
+
+2000000  Rico (RICO): 0x436E321B9313552541D7ea07C57D525De0c4d65F
+transaction:0x208f70098baabfc01113bfd64d26b62ff4f022b28ccc88c52de461b5fad0987b
+to: 0xf57Bef2550ce6BAF2F8F2F989b32000767215dD1
 *****************************************************
 - Design Project
 - Manage Operation
@@ -9,7 +13,11 @@ Autonomous: 2,000,000 + 10% (Unclaimed)
 //---------------------------------------------------
 Code:
 ---------------------------------------
-Reco Daley : 1,200,000 RICO + 5% (Unclaimed)
+Reco Daley: +5% (Unclaimed)
+
+1200000 Rico (RICO): 0x436E321B9313552541D7ea07C57D525De0c4d65F
+transaction:0xb9c4048caf5b2a304a923ebf4cc1eab33872b0e60c142990d91ffbea2b49e926
+to: 0xcAcCb7F9a8Bc1fCb1efa8f66Ca84B6Cf55E643CD
 *************************************
 - Relays orders
 - Recruiting Reptar_IT
@@ -31,7 +39,11 @@ Reco Daley : 1,200,000 RICO + 5% (Unclaimed)
 - ICO Listing
 
 //------------------------------
-Reptar_IT : 1,000,000 RICO + 5% (Unclaimed)
+Reptar_IT: +5% (Unclaimed)
+
+1000000 Rico (RICO): 0x436E321B9313552541D7ea07C57D525De0c4d65F
+transaction:0xb94d9a6c6fc45dd80a3439fcb2a52c11238f5408f467841f999cf3d0011ad40c
+to: 0x79cc034476C08bBCCcC3faC8F5d691DC68FaED15
 *****************************************
 - ICO Website Development
 - Token creation
